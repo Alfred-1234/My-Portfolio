@@ -1,0 +1,17 @@
+nav{
+  float: right;
+  list-style: none;
+  margin-top: 35px;
+}
+nav li{
+  display: inline-block;
+}
+nav li a:hover{
+  border:2px solid green;
+}
+nav li a{
+  padding: 5px;
+  font-size: 30px;
+  text-decoration: none;
+  color: blue
+}
