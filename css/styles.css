@@ -21,3 +21,19 @@ height:100vh;
 background-size: cover;
 background-position: center;
 }
+h1{
+  color: white;
+  text-align: center;
+  position: relative;
+  font-size: 60px;
+  left: 196px;
+  top: 322px;
+}
+h2{
+  color:white;
+  text-align: center;
+  position: relative;
+  top:279px;
+  left:18px;
+  font-size: 60px;
+}
