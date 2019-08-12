@@ -37,3 +37,35 @@ h2{
   left:18px;
   font-size: 60px;
 }
+#about h3 { padding: 0;
+color: green;
+
+}
+#about p { font-size: 1.2em;
+color: #000;
+
+}
+#about h4 {
+  padding: 0;
+  color: green;
+}
+#about{
+  background-color: red;
+}
+#hobbies p {
+  font-size: 1.2em;
+  color:blue;
+}
+ol{
+  background: #ff9999;
+  padding: 20px;
+}
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+}
+#contacts p{
+  font-size: 20px;
+  color: green;
+}
